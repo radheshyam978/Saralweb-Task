@@ -1,0 +1,13 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "NodeJS module to merge discontinuous time ranges based on threshold",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
